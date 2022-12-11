@@ -1,5 +1,5 @@
 # BankAccounts
-# 4-th Homework for the course in Algorithmic Methods for Data Mining (ADM) at La Sapienza university of Rome.
+## 4-th Homework for the course in Algorithmic Methods for Data Mining (ADM) at La Sapienza university of Rome.
 
 ## Short description 
 In this group homework we analyze [this](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation) data set about banking data such transactions and bank accounts.
